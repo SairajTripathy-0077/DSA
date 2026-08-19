@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0141-linked-list-cycle](https://github.com/SairajTripathy-0077/DSA/tree/master/0141-linked-list-cycle) |
 | [0202-happy-number](https://github.com/SairajTripathy-0077/DSA/tree/master/0202-happy-number) |
 | [0242-valid-anagram](https://github.com/SairajTripathy-0077/DSA/tree/master/0242-valid-anagram) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/SairajTripathy-0077/DSA/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -48,9 +49,15 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0141-linked-list-cycle](https://github.com/SairajTripathy-0077/DSA/tree/master/0141-linked-list-cycle) |
 | [0202-happy-number](https://github.com/SairajTripathy-0077/DSA/tree/master/0202-happy-number) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
+| [0141-linked-list-cycle](https://github.com/SairajTripathy-0077/DSA/tree/master/0141-linked-list-cycle) |
 | [0202-happy-number](https://github.com/SairajTripathy-0077/DSA/tree/master/0202-happy-number) |
+## Linked List
+|  |
+| ------- |
+| [0141-linked-list-cycle](https://github.com/SairajTripathy-0077/DSA/tree/master/0141-linked-list-cycle) |
 <!---LeetCode Topics End-->
