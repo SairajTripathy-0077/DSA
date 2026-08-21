@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/SairajTripathy-0077/DSA/tree/master/0004-median-of-two-sorted-arrays) |
 | [0724-find-pivot-index](https://github.com/SairajTripathy-0077/DSA/tree/master/0724-find-pivot-index) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/SairajTripathy-0077/DSA/tree/master/1011-capacity-to-ship-packages-within-d-days) |
+| [1991-find-the-middle-index-in-array](https://github.com/SairajTripathy-0077/DSA/tree/master/1991-find-the-middle-index-in-array) |
 | [2293-min-max-game](https://github.com/SairajTripathy-0077/DSA/tree/master/2293-min-max-game) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/SairajTripathy-0077/DSA/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 ## Binary Search
@@ -69,4 +70,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0724-find-pivot-index](https://github.com/SairajTripathy-0077/DSA/tree/master/0724-find-pivot-index) |
+| [1991-find-the-middle-index-in-array](https://github.com/SairajTripathy-0077/DSA/tree/master/1991-find-the-middle-index-in-array) |
 <!---LeetCode Topics End-->
