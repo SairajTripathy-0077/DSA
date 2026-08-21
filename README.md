@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2293-min-max-game](https://github.com/SairajTripathy-0077/DSA/tree/master/2293-min-max-game) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/SairajTripathy-0077/DSA/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/SairajTripathy-0077/DSA/tree/master/3005-count-elements-with-maximum-frequency) |
+| [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/SairajTripathy-0077/DSA/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 ## Binary Search
 |  |
 | ------- |
@@ -51,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0202-happy-number](https://github.com/SairajTripathy-0077/DSA/tree/master/0202-happy-number) |
+| [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/SairajTripathy-0077/DSA/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 ## Two Pointers
 |  |
 | ------- |
