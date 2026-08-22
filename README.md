@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/SairajTripathy-0077/DSA/tree/master/0002-add-two-numbers) |
 | [0202-happy-number](https://github.com/SairajTripathy-0077/DSA/tree/master/0202-happy-number) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/SairajTripathy-0077/DSA/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 ## Two Pointers
@@ -72,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/SairajTripathy-0077/DSA/tree/master/0002-add-two-numbers) |
 | [0141-linked-list-cycle](https://github.com/SairajTripathy-0077/DSA/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/SairajTripathy-0077/DSA/tree/master/0142-linked-list-cycle-ii) |
 ## Prefix Sum
@@ -88,4 +90,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/SairajTripathy-0077/DSA/tree/master/0169-majority-element) |
+## Recursion
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/SairajTripathy-0077/DSA/tree/master/0002-add-two-numbers) |
 <!---LeetCode Topics End-->
