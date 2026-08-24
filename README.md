@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0225-implement-stack-using-queues](https://github.com/SairajTripathy-0077/DSA/tree/master/0225-implement-stack-using-queues) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/SairajTripathy-0077/DSA/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 ## Math
 |  |
@@ -96,4 +97,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/SairajTripathy-0077/DSA/tree/master/0002-add-two-numbers) |
+## Design
+|  |
+| ------- |
+| [0225-implement-stack-using-queues](https://github.com/SairajTripathy-0077/DSA/tree/master/0225-implement-stack-using-queues) |
+## Queue
+|  |
+| ------- |
+| [0225-implement-stack-using-queues](https://github.com/SairajTripathy-0077/DSA/tree/master/0225-implement-stack-using-queues) |
 <!---LeetCode Topics End-->
