@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0008-string-to-integer-atoi](https://github.com/SairajTripathy-0077/DSA/tree/master/0008-string-to-integer-atoi) |
+| [0043-multiply-strings](https://github.com/SairajTripathy-0077/DSA/tree/master/0043-multiply-strings) |
 | [0151-reverse-words-in-a-string](https://github.com/SairajTripathy-0077/DSA/tree/master/0151-reverse-words-in-a-string) |
 | [0242-valid-anagram](https://github.com/SairajTripathy-0077/DSA/tree/master/0242-valid-anagram) |
 | [0771-jewels-and-stones](https://github.com/SairajTripathy-0077/DSA/tree/master/0771-jewels-and-stones) |
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0043-multiply-strings](https://github.com/SairajTripathy-0077/DSA/tree/master/0043-multiply-strings) |
 | [2293-min-max-game](https://github.com/SairajTripathy-0077/DSA/tree/master/2293-min-max-game) |
 ## Stack
 |  |
@@ -76,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/SairajTripathy-0077/DSA/tree/master/0002-add-two-numbers) |
+| [0043-multiply-strings](https://github.com/SairajTripathy-0077/DSA/tree/master/0043-multiply-strings) |
 | [0202-happy-number](https://github.com/SairajTripathy-0077/DSA/tree/master/0202-happy-number) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/SairajTripathy-0077/DSA/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/SairajTripathy-0077/DSA/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
