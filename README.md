@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0008-string-to-integer-atoi](https://github.com/SairajTripathy-0077/DSA/tree/master/0008-string-to-integer-atoi) |
 | [0242-valid-anagram](https://github.com/SairajTripathy-0077/DSA/tree/master/0242-valid-anagram) |
 | [0771-jewels-and-stones](https://github.com/SairajTripathy-0077/DSA/tree/master/0771-jewels-and-stones) |
+| [1021-remove-outermost-parentheses](https://github.com/SairajTripathy-0077/DSA/tree/master/1021-remove-outermost-parentheses) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/SairajTripathy-0077/DSA/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [2351-first-letter-to-appear-twice](https://github.com/SairajTripathy-0077/DSA/tree/master/2351-first-letter-to-appear-twice) |
 ## Sorting
@@ -68,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/SairajTripathy-0077/DSA/tree/master/0225-implement-stack-using-queues) |
 | [0907-sum-of-subarray-minimums](https://github.com/SairajTripathy-0077/DSA/tree/master/0907-sum-of-subarray-minimums) |
+| [1021-remove-outermost-parentheses](https://github.com/SairajTripathy-0077/DSA/tree/master/1021-remove-outermost-parentheses) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/SairajTripathy-0077/DSA/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 ## Math
 |  |
@@ -137,4 +139,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0907-sum-of-subarray-minimums](https://github.com/SairajTripathy-0077/DSA/tree/master/0907-sum-of-subarray-minimums) |
+## Bracket Sequences
+|  |
+| ------- |
+| [1021-remove-outermost-parentheses](https://github.com/SairajTripathy-0077/DSA/tree/master/1021-remove-outermost-parentheses) |
 <!---LeetCode Topics End-->
