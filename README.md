@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/SairajTripathy-0077/DSA/tree/master/0202-happy-number) |
 | [0242-valid-anagram](https://github.com/SairajTripathy-0077/DSA/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/SairajTripathy-0077/DSA/tree/master/0349-intersection-of-two-arrays) |
+| [0451-sort-characters-by-frequency](https://github.com/SairajTripathy-0077/DSA/tree/master/0451-sort-characters-by-frequency) |
 | [0560-subarray-sum-equals-k](https://github.com/SairajTripathy-0077/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0771-jewels-and-stones](https://github.com/SairajTripathy-0077/DSA/tree/master/0771-jewels-and-stones) |
 | [2351-first-letter-to-appear-twice](https://github.com/SairajTripathy-0077/DSA/tree/master/2351-first-letter-to-appear-twice) |
@@ -22,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0043-multiply-strings](https://github.com/SairajTripathy-0077/DSA/tree/master/0043-multiply-strings) |
 | [0151-reverse-words-in-a-string](https://github.com/SairajTripathy-0077/DSA/tree/master/0151-reverse-words-in-a-string) |
 | [0242-valid-anagram](https://github.com/SairajTripathy-0077/DSA/tree/master/0242-valid-anagram) |
+| [0451-sort-characters-by-frequency](https://github.com/SairajTripathy-0077/DSA/tree/master/0451-sort-characters-by-frequency) |
 | [0771-jewels-and-stones](https://github.com/SairajTripathy-0077/DSA/tree/master/0771-jewels-and-stones) |
 | [1021-remove-outermost-parentheses](https://github.com/SairajTripathy-0077/DSA/tree/master/1021-remove-outermost-parentheses) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/SairajTripathy-0077/DSA/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
@@ -32,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/SairajTripathy-0077/DSA/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/SairajTripathy-0077/DSA/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/SairajTripathy-0077/DSA/tree/master/0349-intersection-of-two-arrays) |
+| [0451-sort-characters-by-frequency](https://github.com/SairajTripathy-0077/DSA/tree/master/0451-sort-characters-by-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/SairajTripathy-0077/DSA/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 ## Array
 |  |
@@ -115,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/SairajTripathy-0077/DSA/tree/master/0169-majority-element) |
+| [0451-sort-characters-by-frequency](https://github.com/SairajTripathy-0077/DSA/tree/master/0451-sort-characters-by-frequency) |
 | [2351-first-letter-to-appear-twice](https://github.com/SairajTripathy-0077/DSA/tree/master/2351-first-letter-to-appear-twice) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/SairajTripathy-0077/DSA/tree/master/3005-count-elements-with-maximum-frequency) |
 ## Boyer–Moore Majority Vote Algorithm
@@ -150,4 +154,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1021-remove-outermost-parentheses](https://github.com/SairajTripathy-0077/DSA/tree/master/1021-remove-outermost-parentheses) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0451-sort-characters-by-frequency](https://github.com/SairajTripathy-0077/DSA/tree/master/0451-sort-characters-by-frequency) |
+## Bucket Sort
+|  |
+| ------- |
+| [0451-sort-characters-by-frequency](https://github.com/SairajTripathy-0077/DSA/tree/master/0451-sort-characters-by-frequency) |
 <!---LeetCode Topics End-->
