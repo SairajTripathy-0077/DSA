@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/SairajTripathy-0077/DSA/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/SairajTripathy-0077/DSA/tree/master/3005-count-elements-with-maximum-frequency) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/SairajTripathy-0077/DSA/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
+| [3875-construct-uniform-parity-array-i](https://github.com/SairajTripathy-0077/DSA/tree/master/3875-construct-uniform-parity-array-i) |
 ## Binary Search
 |  |
 | ------- |
@@ -82,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/SairajTripathy-0077/DSA/tree/master/0202-happy-number) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/SairajTripathy-0077/DSA/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/SairajTripathy-0077/DSA/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
+| [3875-construct-uniform-parity-array-i](https://github.com/SairajTripathy-0077/DSA/tree/master/3875-construct-uniform-parity-array-i) |
 ## Two Pointers
 |  |
 | ------- |
