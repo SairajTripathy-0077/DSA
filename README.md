@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/SairajTripathy-0077/DSA/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/SairajTripathy-0077/DSA/tree/master/0202-happy-number) |
 | [0242-valid-anagram](https://github.com/SairajTripathy-0077/DSA/tree/master/0242-valid-anagram) |
+| [0347-top-k-frequent-elements](https://github.com/SairajTripathy-0077/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/SairajTripathy-0077/DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0451-sort-characters-by-frequency](https://github.com/SairajTripathy-0077/DSA/tree/master/0451-sort-characters-by-frequency) |
 | [0560-subarray-sum-equals-k](https://github.com/SairajTripathy-0077/DSA/tree/master/0560-subarray-sum-equals-k) |
@@ -33,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/SairajTripathy-0077/DSA/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/SairajTripathy-0077/DSA/tree/master/0242-valid-anagram) |
+| [0347-top-k-frequent-elements](https://github.com/SairajTripathy-0077/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/SairajTripathy-0077/DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0451-sort-characters-by-frequency](https://github.com/SairajTripathy-0077/DSA/tree/master/0451-sort-characters-by-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/SairajTripathy-0077/DSA/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -43,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0031-next-permutation](https://github.com/SairajTripathy-0077/DSA/tree/master/0031-next-permutation) |
 | [0048-rotate-image](https://github.com/SairajTripathy-0077/DSA/tree/master/0048-rotate-image) |
 | [0169-majority-element](https://github.com/SairajTripathy-0077/DSA/tree/master/0169-majority-element) |
+| [0347-top-k-frequent-elements](https://github.com/SairajTripathy-0077/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/SairajTripathy-0077/DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0560-subarray-sum-equals-k](https://github.com/SairajTripathy-0077/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/SairajTripathy-0077/DSA/tree/master/0724-find-pivot-index) |
@@ -69,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/SairajTripathy-0077/DSA/tree/master/0004-median-of-two-sorted-arrays) |
 | [0169-majority-element](https://github.com/SairajTripathy-0077/DSA/tree/master/0169-majority-element) |
+| [0347-top-k-frequent-elements](https://github.com/SairajTripathy-0077/DSA/tree/master/0347-top-k-frequent-elements) |
 ## Simulation
 |  |
 | ------- |
@@ -124,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/SairajTripathy-0077/DSA/tree/master/0169-majority-element) |
+| [0347-top-k-frequent-elements](https://github.com/SairajTripathy-0077/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/SairajTripathy-0077/DSA/tree/master/0451-sort-characters-by-frequency) |
 | [2351-first-letter-to-appear-twice](https://github.com/SairajTripathy-0077/DSA/tree/master/2351-first-letter-to-appear-twice) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/SairajTripathy-0077/DSA/tree/master/3005-count-elements-with-maximum-frequency) |
@@ -163,13 +168,19 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/SairajTripathy-0077/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/SairajTripathy-0077/DSA/tree/master/0451-sort-characters-by-frequency) |
 ## Bucket Sort
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/SairajTripathy-0077/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/SairajTripathy-0077/DSA/tree/master/0451-sort-characters-by-frequency) |
 ## Matrix
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/SairajTripathy-0077/DSA/tree/master/0048-rotate-image) |
+## Quickselect
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/SairajTripathy-0077/DSA/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
