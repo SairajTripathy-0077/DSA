@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/SairajTripathy-0077/DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0560-subarray-sum-equals-k](https://github.com/SairajTripathy-0077/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/SairajTripathy-0077/DSA/tree/master/0724-find-pivot-index) |
+| [0735-asteroid-collision](https://github.com/SairajTripathy-0077/DSA/tree/master/0735-asteroid-collision) |
 | [0875-koko-eating-bananas](https://github.com/SairajTripathy-0077/DSA/tree/master/0875-koko-eating-bananas) |
 | [0907-sum-of-subarray-minimums](https://github.com/SairajTripathy-0077/DSA/tree/master/0907-sum-of-subarray-minimums) |
 | [0946-validate-stack-sequences](https://github.com/SairajTripathy-0077/DSA/tree/master/0946-validate-stack-sequences) |
@@ -80,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0043-multiply-strings](https://github.com/SairajTripathy-0077/DSA/tree/master/0043-multiply-strings) |
+| [0735-asteroid-collision](https://github.com/SairajTripathy-0077/DSA/tree/master/0735-asteroid-collision) |
 | [0946-validate-stack-sequences](https://github.com/SairajTripathy-0077/DSA/tree/master/0946-validate-stack-sequences) |
 | [2293-min-max-game](https://github.com/SairajTripathy-0077/DSA/tree/master/2293-min-max-game) |
 | [2390-removing-stars-from-a-string](https://github.com/SairajTripathy-0077/DSA/tree/master/2390-removing-stars-from-a-string) |
@@ -89,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0150-evaluate-reverse-polish-notation](https://github.com/SairajTripathy-0077/DSA/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/SairajTripathy-0077/DSA/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/SairajTripathy-0077/DSA/tree/master/0225-implement-stack-using-queues) |
+| [0735-asteroid-collision](https://github.com/SairajTripathy-0077/DSA/tree/master/0735-asteroid-collision) |
 | [0907-sum-of-subarray-minimums](https://github.com/SairajTripathy-0077/DSA/tree/master/0907-sum-of-subarray-minimums) |
 | [0946-validate-stack-sequences](https://github.com/SairajTripathy-0077/DSA/tree/master/0946-validate-stack-sequences) |
 | [1021-remove-outermost-parentheses](https://github.com/SairajTripathy-0077/DSA/tree/master/1021-remove-outermost-parentheses) |
