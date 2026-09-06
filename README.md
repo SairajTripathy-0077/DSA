@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/SairajTripathy-0077/DSA/tree/master/0004-median-of-two-sorted-arrays) |
 | [0031-next-permutation](https://github.com/SairajTripathy-0077/DSA/tree/master/0031-next-permutation) |
 | [0048-rotate-image](https://github.com/SairajTripathy-0077/DSA/tree/master/0048-rotate-image) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/SairajTripathy-0077/DSA/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0169-majority-element](https://github.com/SairajTripathy-0077/DSA/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/SairajTripathy-0077/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/SairajTripathy-0077/DSA/tree/master/0349-intersection-of-two-arrays) |
@@ -81,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0150-evaluate-reverse-polish-notation](https://github.com/SairajTripathy-0077/DSA/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/SairajTripathy-0077/DSA/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/SairajTripathy-0077/DSA/tree/master/0225-implement-stack-using-queues) |
 | [0907-sum-of-subarray-minimums](https://github.com/SairajTripathy-0077/DSA/tree/master/0907-sum-of-subarray-minimums) |
@@ -92,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/SairajTripathy-0077/DSA/tree/master/0002-add-two-numbers) |
 | [0043-multiply-strings](https://github.com/SairajTripathy-0077/DSA/tree/master/0043-multiply-strings) |
 | [0048-rotate-image](https://github.com/SairajTripathy-0077/DSA/tree/master/0048-rotate-image) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/SairajTripathy-0077/DSA/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0202-happy-number](https://github.com/SairajTripathy-0077/DSA/tree/master/0202-happy-number) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/SairajTripathy-0077/DSA/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/SairajTripathy-0077/DSA/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
