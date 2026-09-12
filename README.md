@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/SairajTripathy-0077/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/SairajTripathy-0077/DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0451-sort-characters-by-frequency](https://github.com/SairajTripathy-0077/DSA/tree/master/0451-sort-characters-by-frequency) |
+| [0853-car-fleet](https://github.com/SairajTripathy-0077/DSA/tree/master/0853-car-fleet) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/SairajTripathy-0077/DSA/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 ## Array
 |  |
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0724-find-pivot-index](https://github.com/SairajTripathy-0077/DSA/tree/master/0724-find-pivot-index) |
 | [0735-asteroid-collision](https://github.com/SairajTripathy-0077/DSA/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/SairajTripathy-0077/DSA/tree/master/0739-daily-temperatures) |
+| [0853-car-fleet](https://github.com/SairajTripathy-0077/DSA/tree/master/0853-car-fleet) |
 | [0875-koko-eating-bananas](https://github.com/SairajTripathy-0077/DSA/tree/master/0875-koko-eating-bananas) |
 | [0907-sum-of-subarray-minimums](https://github.com/SairajTripathy-0077/DSA/tree/master/0907-sum-of-subarray-minimums) |
 | [0946-validate-stack-sequences](https://github.com/SairajTripathy-0077/DSA/tree/master/0946-validate-stack-sequences) |
@@ -94,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0225-implement-stack-using-queues](https://github.com/SairajTripathy-0077/DSA/tree/master/0225-implement-stack-using-queues) |
 | [0735-asteroid-collision](https://github.com/SairajTripathy-0077/DSA/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/SairajTripathy-0077/DSA/tree/master/0739-daily-temperatures) |
+| [0853-car-fleet](https://github.com/SairajTripathy-0077/DSA/tree/master/0853-car-fleet) |
 | [0901-online-stock-span](https://github.com/SairajTripathy-0077/DSA/tree/master/0901-online-stock-span) |
 | [0907-sum-of-subarray-minimums](https://github.com/SairajTripathy-0077/DSA/tree/master/0907-sum-of-subarray-minimums) |
 | [0946-validate-stack-sequences](https://github.com/SairajTripathy-0077/DSA/tree/master/0946-validate-stack-sequences) |
@@ -179,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0739-daily-temperatures](https://github.com/SairajTripathy-0077/DSA/tree/master/0739-daily-temperatures) |
+| [0853-car-fleet](https://github.com/SairajTripathy-0077/DSA/tree/master/0853-car-fleet) |
 | [0901-online-stock-span](https://github.com/SairajTripathy-0077/DSA/tree/master/0901-online-stock-span) |
 | [0907-sum-of-subarray-minimums](https://github.com/SairajTripathy-0077/DSA/tree/master/0907-sum-of-subarray-minimums) |
 ## Bracket Sequences
