@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/SairajTripathy-0077/DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0451-sort-characters-by-frequency](https://github.com/SairajTripathy-0077/DSA/tree/master/0451-sort-characters-by-frequency) |
 | [0560-subarray-sum-equals-k](https://github.com/SairajTripathy-0077/DSA/tree/master/0560-subarray-sum-equals-k) |
+| [0705-design-hashset](https://github.com/SairajTripathy-0077/DSA/tree/master/0705-design-hashset) |
 | [0771-jewels-and-stones](https://github.com/SairajTripathy-0077/DSA/tree/master/0771-jewels-and-stones) |
 | [2351-first-letter-to-appear-twice](https://github.com/SairajTripathy-0077/DSA/tree/master/2351-first-letter-to-appear-twice) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/SairajTripathy-0077/DSA/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -51,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/SairajTripathy-0077/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/SairajTripathy-0077/DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0560-subarray-sum-equals-k](https://github.com/SairajTripathy-0077/DSA/tree/master/0560-subarray-sum-equals-k) |
+| [0705-design-hashset](https://github.com/SairajTripathy-0077/DSA/tree/master/0705-design-hashset) |
 | [0724-find-pivot-index](https://github.com/SairajTripathy-0077/DSA/tree/master/0724-find-pivot-index) |
 | [0735-asteroid-collision](https://github.com/SairajTripathy-0077/DSA/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/SairajTripathy-0077/DSA/tree/master/0739-daily-temperatures) |
@@ -135,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/SairajTripathy-0077/DSA/tree/master/0002-add-two-numbers) |
 | [0141-linked-list-cycle](https://github.com/SairajTripathy-0077/DSA/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/SairajTripathy-0077/DSA/tree/master/0142-linked-list-cycle-ii) |
+| [0705-design-hashset](https://github.com/SairajTripathy-0077/DSA/tree/master/0705-design-hashset) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -164,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0155-min-stack](https://github.com/SairajTripathy-0077/DSA/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/SairajTripathy-0077/DSA/tree/master/0225-implement-stack-using-queues) |
+| [0705-design-hashset](https://github.com/SairajTripathy-0077/DSA/tree/master/0705-design-hashset) |
 | [0901-online-stock-span](https://github.com/SairajTripathy-0077/DSA/tree/master/0901-online-stock-span) |
 ## Queue
 |  |
@@ -211,4 +215,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0901-online-stock-span](https://github.com/SairajTripathy-0077/DSA/tree/master/0901-online-stock-span) |
+## Hash Function
+|  |
+| ------- |
+| [0705-design-hashset](https://github.com/SairajTripathy-0077/DSA/tree/master/0705-design-hashset) |
 <!---LeetCode Topics End-->
