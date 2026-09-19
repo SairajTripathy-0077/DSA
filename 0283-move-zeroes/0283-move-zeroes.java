@@ -9,7 +9,6 @@ class Solution {
             }
         }
 
-        // Step 2: Fill the rest with zeroes
         while (index < nums.length) {
             nums[index] = 0;
             index++;
