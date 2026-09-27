@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/SairajTripathy-0077/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/SairajTripathy-0077/DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0451-sort-characters-by-frequency](https://github.com/SairajTripathy-0077/DSA/tree/master/0451-sort-characters-by-frequency) |
+| [0455-assign-cookies](https://github.com/SairajTripathy-0077/DSA/tree/master/0455-assign-cookies) |
 | [0853-car-fleet](https://github.com/SairajTripathy-0077/DSA/tree/master/0853-car-fleet) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/SairajTripathy-0077/DSA/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 ## Array
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/SairajTripathy-0077/DSA/tree/master/0283-move-zeroes) |
 | [0347-top-k-frequent-elements](https://github.com/SairajTripathy-0077/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/SairajTripathy-0077/DSA/tree/master/0349-intersection-of-two-arrays) |
+| [0455-assign-cookies](https://github.com/SairajTripathy-0077/DSA/tree/master/0455-assign-cookies) |
 | [0560-subarray-sum-equals-k](https://github.com/SairajTripathy-0077/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0705-design-hashset](https://github.com/SairajTripathy-0077/DSA/tree/master/0705-design-hashset) |
 | [0724-find-pivot-index](https://github.com/SairajTripathy-0077/DSA/tree/master/0724-find-pivot-index) |
@@ -133,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/SairajTripathy-0077/DSA/tree/master/0202-happy-number) |
 | [0283-move-zeroes](https://github.com/SairajTripathy-0077/DSA/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/SairajTripathy-0077/DSA/tree/master/0349-intersection-of-two-arrays) |
+| [0455-assign-cookies](https://github.com/SairajTripathy-0077/DSA/tree/master/0455-assign-cookies) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
@@ -233,8 +236,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/SairajTripathy-0077/DSA/tree/master/0075-sort-colors) |
+| [0455-assign-cookies](https://github.com/SairajTripathy-0077/DSA/tree/master/0455-assign-cookies) |
 ## Bubble Sort
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/SairajTripathy-0077/DSA/tree/master/0075-sort-colors) |
+## Greedy
+|  |
+| ------- |
+| [0455-assign-cookies](https://github.com/SairajTripathy-0077/DSA/tree/master/0455-assign-cookies) |
 <!---LeetCode Topics End-->
