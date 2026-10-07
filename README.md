@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/SairajTripathy-0077/DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0455-assign-cookies](https://github.com/SairajTripathy-0077/DSA/tree/master/0455-assign-cookies) |
 | [0560-subarray-sum-equals-k](https://github.com/SairajTripathy-0077/DSA/tree/master/0560-subarray-sum-equals-k) |
+| [0643-maximum-average-subarray-i](https://github.com/SairajTripathy-0077/DSA/tree/master/0643-maximum-average-subarray-i) |
 | [0705-design-hashset](https://github.com/SairajTripathy-0077/DSA/tree/master/0705-design-hashset) |
 | [0724-find-pivot-index](https://github.com/SairajTripathy-0077/DSA/tree/master/0724-find-pivot-index) |
 | [0735-asteroid-collision](https://github.com/SairajTripathy-0077/DSA/tree/master/0735-asteroid-collision) |
@@ -247,4 +248,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0455-assign-cookies](https://github.com/SairajTripathy-0077/DSA/tree/master/0455-assign-cookies) |
+## Sliding Window
+|  |
+| ------- |
+| [0643-maximum-average-subarray-i](https://github.com/SairajTripathy-0077/DSA/tree/master/0643-maximum-average-subarray-i) |
 <!---LeetCode Topics End-->
