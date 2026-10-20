@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/SairajTripathy-0077/DSA/tree/master/0048-rotate-image) |
 | [0075-sort-colors](https://github.com/SairajTripathy-0077/DSA/tree/master/0075-sort-colors) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/SairajTripathy-0077/DSA/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/SairajTripathy-0077/DSA/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0169-majority-element](https://github.com/SairajTripathy-0077/DSA/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/SairajTripathy-0077/DSA/tree/master/0229-majority-element-ii) |
 | [0283-move-zeroes](https://github.com/SairajTripathy-0077/DSA/tree/master/0283-move-zeroes) |
@@ -85,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/SairajTripathy-0077/DSA/tree/master/0004-median-of-two-sorted-arrays) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/SairajTripathy-0077/DSA/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0349-intersection-of-two-arrays](https://github.com/SairajTripathy-0077/DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0875-koko-eating-bananas](https://github.com/SairajTripathy-0077/DSA/tree/master/0875-koko-eating-bananas) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/SairajTripathy-0077/DSA/tree/master/1011-capacity-to-ship-packages-within-d-days) |
