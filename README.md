@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/SairajTripathy-0077/DSA/tree/master/0451-sort-characters-by-frequency) |
 | [0560-subarray-sum-equals-k](https://github.com/SairajTripathy-0077/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0705-design-hashset](https://github.com/SairajTripathy-0077/DSA/tree/master/0705-design-hashset) |
+| [0767-reorganize-string](https://github.com/SairajTripathy-0077/DSA/tree/master/0767-reorganize-string) |
 | [0771-jewels-and-stones](https://github.com/SairajTripathy-0077/DSA/tree/master/0771-jewels-and-stones) |
 | [2351-first-letter-to-appear-twice](https://github.com/SairajTripathy-0077/DSA/tree/master/2351-first-letter-to-appear-twice) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/SairajTripathy-0077/DSA/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -28,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/SairajTripathy-0077/DSA/tree/master/0151-reverse-words-in-a-string) |
 | [0242-valid-anagram](https://github.com/SairajTripathy-0077/DSA/tree/master/0242-valid-anagram) |
 | [0451-sort-characters-by-frequency](https://github.com/SairajTripathy-0077/DSA/tree/master/0451-sort-characters-by-frequency) |
+| [0767-reorganize-string](https://github.com/SairajTripathy-0077/DSA/tree/master/0767-reorganize-string) |
 | [0771-jewels-and-stones](https://github.com/SairajTripathy-0077/DSA/tree/master/0771-jewels-and-stones) |
 | [1021-remove-outermost-parentheses](https://github.com/SairajTripathy-0077/DSA/tree/master/1021-remove-outermost-parentheses) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/SairajTripathy-0077/DSA/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
@@ -46,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/SairajTripathy-0077/DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0451-sort-characters-by-frequency](https://github.com/SairajTripathy-0077/DSA/tree/master/0451-sort-characters-by-frequency) |
 | [0455-assign-cookies](https://github.com/SairajTripathy-0077/DSA/tree/master/0455-assign-cookies) |
+| [0767-reorganize-string](https://github.com/SairajTripathy-0077/DSA/tree/master/0767-reorganize-string) |
 | [0853-car-fleet](https://github.com/SairajTripathy-0077/DSA/tree/master/0853-car-fleet) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/SairajTripathy-0077/DSA/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 ## Array
@@ -181,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/SairajTripathy-0077/DSA/tree/master/0229-majority-element-ii) |
 | [0347-top-k-frequent-elements](https://github.com/SairajTripathy-0077/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/SairajTripathy-0077/DSA/tree/master/0451-sort-characters-by-frequency) |
+| [0767-reorganize-string](https://github.com/SairajTripathy-0077/DSA/tree/master/0767-reorganize-string) |
 | [2351-first-letter-to-appear-twice](https://github.com/SairajTripathy-0077/DSA/tree/master/2351-first-letter-to-appear-twice) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/SairajTripathy-0077/DSA/tree/master/3005-count-elements-with-maximum-frequency) |
 ## Boyer–Moore Majority Vote Algorithm
@@ -230,6 +234,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/SairajTripathy-0077/DSA/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/SairajTripathy-0077/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/SairajTripathy-0077/DSA/tree/master/0451-sort-characters-by-frequency) |
+| [0767-reorganize-string](https://github.com/SairajTripathy-0077/DSA/tree/master/0767-reorganize-string) |
 ## Bucket Sort
 |  |
 | ------- |
@@ -265,6 +270,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0455-assign-cookies](https://github.com/SairajTripathy-0077/DSA/tree/master/0455-assign-cookies) |
+| [0767-reorganize-string](https://github.com/SairajTripathy-0077/DSA/tree/master/0767-reorganize-string) |
 ## Sliding Window
 |  |
 | ------- |
