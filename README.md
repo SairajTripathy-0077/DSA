@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1768-merge-strings-alternately](https://github.com/SairajTripathy-0077/DSA/tree/master/1768-merge-strings-alternately) |
 | [2351-first-letter-to-appear-twice](https://github.com/SairajTripathy-0077/DSA/tree/master/2351-first-letter-to-appear-twice) |
 | [2390-removing-stars-from-a-string](https://github.com/SairajTripathy-0077/DSA/tree/master/2390-removing-stars-from-a-string) |
+| [2559-count-vowel-strings-in-ranges](https://github.com/SairajTripathy-0077/DSA/tree/master/2559-count-vowel-strings-in-ranges) |
 ## Sorting
 |  |
 | ------- |
@@ -84,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1991-find-the-middle-index-in-array](https://github.com/SairajTripathy-0077/DSA/tree/master/1991-find-the-middle-index-in-array) |
 | [2293-min-max-game](https://github.com/SairajTripathy-0077/DSA/tree/master/2293-min-max-game) |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/SairajTripathy-0077/DSA/tree/master/2300-successful-pairs-of-spells-and-potions) |
+| [2559-count-vowel-strings-in-ranges](https://github.com/SairajTripathy-0077/DSA/tree/master/2559-count-vowel-strings-in-ranges) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/SairajTripathy-0077/DSA/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/SairajTripathy-0077/DSA/tree/master/3005-count-elements-with-maximum-frequency) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/SairajTripathy-0077/DSA/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
@@ -179,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/SairajTripathy-0077/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/SairajTripathy-0077/DSA/tree/master/0724-find-pivot-index) |
 | [1991-find-the-middle-index-in-array](https://github.com/SairajTripathy-0077/DSA/tree/master/1991-find-the-middle-index-in-array) |
+| [2559-count-vowel-strings-in-ranges](https://github.com/SairajTripathy-0077/DSA/tree/master/2559-count-vowel-strings-in-ranges) |
 | [3903-smallest-stable-index-i](https://github.com/SairajTripathy-0077/DSA/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/SairajTripathy-0077/DSA/tree/master/3904-smallest-stable-index-ii) |
 ## Counting
