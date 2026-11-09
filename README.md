@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0771-jewels-and-stones](https://github.com/SairajTripathy-0077/DSA/tree/master/0771-jewels-and-stones) |
 | [1021-remove-outermost-parentheses](https://github.com/SairajTripathy-0077/DSA/tree/master/1021-remove-outermost-parentheses) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/SairajTripathy-0077/DSA/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
+| [1408-string-matching-in-an-array](https://github.com/SairajTripathy-0077/DSA/tree/master/1408-string-matching-in-an-array) |
 | [1768-merge-strings-alternately](https://github.com/SairajTripathy-0077/DSA/tree/master/1768-merge-strings-alternately) |
 | [2351-first-letter-to-appear-twice](https://github.com/SairajTripathy-0077/DSA/tree/master/2351-first-letter-to-appear-twice) |
 | [2390-removing-stars-from-a-string](https://github.com/SairajTripathy-0077/DSA/tree/master/2390-removing-stars-from-a-string) |
@@ -82,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/SairajTripathy-0077/DSA/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1052-grumpy-bookstore-owner](https://github.com/SairajTripathy-0077/DSA/tree/master/1052-grumpy-bookstore-owner) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/SairajTripathy-0077/DSA/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
+| [1408-string-matching-in-an-array](https://github.com/SairajTripathy-0077/DSA/tree/master/1408-string-matching-in-an-array) |
 | [1991-find-the-middle-index-in-array](https://github.com/SairajTripathy-0077/DSA/tree/master/1991-find-the-middle-index-in-array) |
 | [2293-min-max-game](https://github.com/SairajTripathy-0077/DSA/tree/master/2293-min-max-game) |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/SairajTripathy-0077/DSA/tree/master/2300-successful-pairs-of-spells-and-potions) |
@@ -313,4 +315,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0543-diameter-of-binary-tree](https://github.com/SairajTripathy-0077/DSA/tree/master/0543-diameter-of-binary-tree) |
+## String Matching
+|  |
+| ------- |
+| [1408-string-matching-in-an-array](https://github.com/SairajTripathy-0077/DSA/tree/master/1408-string-matching-in-an-array) |
 <!---LeetCode Topics End-->
